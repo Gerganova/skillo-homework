@@ -1,0 +1,8 @@
+public class FullName {
+    public static void main (String[] args){
+        String firstName = "Radostina";
+        String middleName = "Lyubomirova";
+        String lastName = "Gerganova";
+        System.out.println(firstName + " " + middleName + " " + lastName);
+    }
+}
